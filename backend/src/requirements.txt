@@ -1,0 +1,13 @@
+fastapi == 0.65.1
+uvicorn == 0.14.0
+motor == 2.4.0
+gunicorn
+pydantic
+aiofiles
+google-cloud-storage
+pillow
+python-multipart
+PyYAML
+
+
+

@@ -1,0 +1,14 @@
+google-api-core
+google-auth
+google-cloud-core
+google-cloud-secret-manager
+google-cloud-storage
+google-cloud-vision
+instagrapi
+Pillow
+pytest
+geopy
+moviepy
+pilmoji
+tenacity
+PyYaml

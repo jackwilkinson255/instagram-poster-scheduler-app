@@ -1,0 +1,27 @@
+.Button {
+    transition-duration: 0.4s;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 95%;
+    font-family: Arial;
+    background-color: white;
+    width: 140px;
+    height: 30px;
+  }
+
+.Button:hover {
+    background-color: #237ff5;
+    color: white;
+}
+
+.ButtonComplete {
+    transition-duration: 0.4s;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 90%;
+    font-family: Arial;
+    background-color: green;
+    width: 140px;
+    height: 30px;
+  }
