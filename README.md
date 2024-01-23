@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="poster-scheduler/media/instagram-poster-scheduler-app-recording-compressed.gif" width="600">
+  <img src="poster-scheduler/media/instagram-poster-scheduler-app-recording-compressed.gif" width="500">
 </p>
 
 <p align="center">
